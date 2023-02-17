@@ -10,7 +10,7 @@ export const Hello: Component<{ to?: string }> = props => {
   const [hello, setHello] = createHello()
 
   // This will only log during development, console is removed in production
-  console.log('Hello World!')
+  console.log('Hello World! ZALUPPA')
 
   createComputed(() => {
     if (typeof props.to === 'string') setHello(props.to)
