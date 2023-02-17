@@ -1,6 +1,6 @@
 {
   "name": "@o6/hello",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Example hello world package in the o6 repository.",
   "license": "MIT",
   "author": "o6",
@@ -57,7 +57,7 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "solid-js": "^1.6.9"
+    "solid-js": "^1.6.11"
   },
   "peerDependencies": {
     "solid-js": "^1.6.0"
