@@ -40,7 +40,6 @@
       },
       "require": "./dist/dev.cjs"
     },
-		
     "import": {
       "types": "./dist/index.d.ts",
       "default": "./dist/index.js"
