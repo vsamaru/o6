@@ -1,6 +1,6 @@
 {
   "name": "o6-playground-sandbox",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "private": true,
   "scripts": {
@@ -14,7 +14,7 @@
     "vite-plugin-solid": "^2.5.0"
   },
   "dependencies": {
-    "@o6/hello": "^0.0.1",
+    "@o6/hello": "^1.0.0",
     "solid-js": "^1.6.9"
   }
 }
