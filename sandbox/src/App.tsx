@@ -13,7 +13,7 @@ const App: Component = () => {
           <Hello></Hello>
         </h1>
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Edit <code>src/App.tsx</code> and save
         </p>
         <a
           class={styles.link}
